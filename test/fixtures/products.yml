@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+  
+poem:
+    title: A Psalm of Life
+    description: Tell me not in mournful numbers, life is but an empty dream, and the soul is dead that slumbers, things are not what they seem.
+    image_url: http://www.fromoldbooks.org/WorldsBestMusic/pages/110-Henry-Wadsworth-Longfellow/110-Henry-Wadsworth-Longfellow-q75-325x500.jpg
+    price: 9.99

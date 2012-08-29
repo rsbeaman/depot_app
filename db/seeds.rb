@@ -50,3 +50,11 @@ Product.create(:title => 'Rails Test Prescriptions',
       </p>},
   :image_url => 'pic3.jpg',
   :price => 34.95)
+  
+Product.create(:title => 'A Psalm of Life',
+    :description => 
+      %{<p>
+          <em>Tell me not in mournful numbers<br> life is but an empty dream<br> and the soul is dead that slumbers<br> things are not what they seem.
+        </p>},
+    :image_url => 'http://www.fromoldbooks.org/WorldsBestMusic/pages/110-Henry-Wadsworth-Longfellow/110-Henry-Wadsworth-Longfellow-q75-325x500.jpg',
+    :price => 34.95)
